@@ -1,0 +1,4 @@
+filename,subject_id,session_id,task_type,n_channels,sfreq,duration_sec,n_samples,data_shape,data_mean,data_std,data_min,data_max,has_nans,has_inf,file_size_mb,load_success
+sub-01_pre_run-1_eeg.set,sub-01,ses-1,Pre-rehabilitation,40,250.0,200.076,50020,"(40, 50020)",-4.093541623968756e-12,2.9778649999266685e-06,-2.1560577392578123e-05,2.1881643295288084e-05,False,False,8.15,True
+sub-01_pre_run-2_eeg.set,sub-01,ses-1,Pre-rehabilitation,40,250.0,200.08,50021,"(40, 50021)",3.380195055103539e-10,2.815273452465472e-06,-1.9374061584472654e-05,1.8688024520874024e-05,False,False,8.15,True
+sub-01_pre_run-3_eeg.set,sub-01,ses-1,Pre-rehabilitation,40,250.0,200.076,50020,"(40, 50020)",1.0842249393137338e-09,2.993738138322583e-06,-1.756790542602539e-05,2.3447505950927734e-05,False,False,8.15,True

@@ -1,0 +1,2 @@
+total_files_assessed,successfully_loaded,success_rate,average_channels,average_sampling_rate,average_duration_sec,consistent_channels
+3,3,100.0%,40.0,250.0,200.0773333333333,True

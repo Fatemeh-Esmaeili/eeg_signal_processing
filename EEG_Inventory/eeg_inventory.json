@@ -1,0 +1,3977 @@
+{
+  "metadata": {
+    "total_subjects": 27,
+    "total_files": 419,
+    "creation_date": "2025-11-11 07:55:44",
+    "dataset_reference": "Li et al. (2025) Lower limb motor imagery EEG dataset"
+  },
+  "summary": {
+    "subjects_with_pre_post": 23,
+    "average_files_per_subject": 15.518518518518519,
+    "average_sessions_per_subject": 3.888888888888889
+  },
+  "inventory_data": [
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-01_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-1\\eeg\\sub-01_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-01_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-1\\eeg\\sub-01_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-01_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-1\\eeg\\sub-01_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-01_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-1\\eeg\\sub-01_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-2\\eeg\\sub-01_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-2\\eeg\\sub-01_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-2\\eeg\\sub-01_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-2\\eeg\\sub-01_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-3\\eeg\\sub-01_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-3\\eeg\\sub-01_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-3\\eeg\\sub-01_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-01_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-3\\eeg\\sub-01_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-01_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-4\\eeg\\sub-01_post_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-01_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-4\\eeg\\sub-01_post_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-01_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-4\\eeg\\sub-01_post_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-01_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-4\\eeg\\sub-01_post_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-01_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-5\\eeg\\sub-01_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-01_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-5\\eeg\\sub-01_follow_run-2_eeg.set",
+      "file_size_mb": 8.07,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-01_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-5\\eeg\\sub-01_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-01",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-01_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-01\\ses-5\\eeg\\sub-01_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-02_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-1\\eeg\\sub-02_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-02_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-1\\eeg\\sub-02_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-02_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-1\\eeg\\sub-02_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-02_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-1\\eeg\\sub-02_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-02_pre_run-5_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-1\\eeg\\sub-02_pre_run-5_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-2\\eeg\\sub-02_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.12,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-2\\eeg\\sub-02_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-2\\eeg\\sub-02_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.13,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-2\\eeg\\sub-02_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.12,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-SES_run-5_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-2\\eeg\\sub-02_MI-SES_run-5_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-3\\eeg\\sub-02_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-3\\eeg\\sub-02_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.13,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-3\\eeg\\sub-02_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-02_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-3\\eeg\\sub-02_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-02_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-4\\eeg\\sub-02_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-02_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-4\\eeg\\sub-02_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-02_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-4\\eeg\\sub-02_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-02_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-4\\eeg\\sub-02_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-02_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-5\\eeg\\sub-02_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-02_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-5\\eeg\\sub-02_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-02_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-5\\eeg\\sub-02_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-02",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-02_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-02\\ses-5\\eeg\\sub-02_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-03_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-1\\eeg\\sub-03_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-03_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-1\\eeg\\sub-03_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-03_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-1\\eeg\\sub-03_pre_run-3_eeg.set",
+      "file_size_mb": 8.11,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-03_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-1\\eeg\\sub-03_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-2\\eeg\\sub-03_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-2\\eeg\\sub-03_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-2\\eeg\\sub-03_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-2\\eeg\\sub-03_MI-SES_run-4_eeg.set",
+      "file_size_mb": 7.97,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-3\\eeg\\sub-03_MI-IES_run-1_eeg.set",
+      "file_size_mb": 7.96,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-03",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-03_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-03\\ses-3\\eeg\\sub-03_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-04_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-1\\eeg\\sub-04_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-04_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-1\\eeg\\sub-04_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-04_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-1\\eeg\\sub-04_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-04_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-1\\eeg\\sub-04_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-2\\eeg\\sub-04_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-2\\eeg\\sub-04_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-2\\eeg\\sub-04_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-2\\eeg\\sub-04_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.17,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-3\\eeg\\sub-04_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-3\\eeg\\sub-04_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-3\\eeg\\sub-04_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-04_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-3\\eeg\\sub-04_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-04_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-4\\eeg\\sub-04_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-04_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-4\\eeg\\sub-04_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-04_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-4\\eeg\\sub-04_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-04_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-4\\eeg\\sub-04_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-04_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-5\\eeg\\sub-04_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-04_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-5\\eeg\\sub-04_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-04_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-5\\eeg\\sub-04_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-04",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-04_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-04\\ses-5\\eeg\\sub-04_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-05_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-1\\eeg\\sub-05_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-05_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-1\\eeg\\sub-05_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-05_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-1\\eeg\\sub-05_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-05_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-1\\eeg\\sub-05_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-2\\eeg\\sub-05_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-2\\eeg\\sub-05_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-2\\eeg\\sub-05_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-2\\eeg\\sub-05_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-3\\eeg\\sub-05_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-3\\eeg\\sub-05_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-3\\eeg\\sub-05_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-05_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-3\\eeg\\sub-05_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-05_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-4\\eeg\\sub-05_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-05_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-4\\eeg\\sub-05_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-05_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-4\\eeg\\sub-05_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-05_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-4\\eeg\\sub-05_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-05_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-5\\eeg\\sub-05_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-05_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-5\\eeg\\sub-05_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-05_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-5\\eeg\\sub-05_follow_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-05",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-05_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-05\\ses-5\\eeg\\sub-05_follow_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-06_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-1\\eeg\\sub-06_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-06_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-1\\eeg\\sub-06_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-06_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-1\\eeg\\sub-06_pre_run-3_eeg.set",
+      "file_size_mb": 7.75,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-06_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-1\\eeg\\sub-06_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-2\\eeg\\sub-06_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-2\\eeg\\sub-06_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.17,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-2\\eeg\\sub-06_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-2\\eeg\\sub-06_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-3\\eeg\\sub-06_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-3\\eeg\\sub-06_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-3\\eeg\\sub-06_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-06",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-06_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-06\\ses-3\\eeg\\sub-06_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-07_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-1\\eeg\\sub-07_pre_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-07_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-1\\eeg\\sub-07_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-07_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-1\\eeg\\sub-07_pre_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-07_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-1\\eeg\\sub-07_pre_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-2\\eeg\\sub-07_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-2\\eeg\\sub-07_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-2\\eeg\\sub-07_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-2\\eeg\\sub-07_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-3\\eeg\\sub-07_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-3\\eeg\\sub-07_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-3\\eeg\\sub-07_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-07_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-3\\eeg\\sub-07_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-07_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-4\\eeg\\sub-07_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-07_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-4\\eeg\\sub-07_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-07_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-4\\eeg\\sub-07_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-07_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-4\\eeg\\sub-07_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-07_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-5\\eeg\\sub-07_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-07_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-5\\eeg\\sub-07_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-07_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-5\\eeg\\sub-07_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-07",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-07_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-07\\ses-5\\eeg\\sub-07_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-08_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-1\\eeg\\sub-08_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-08_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-1\\eeg\\sub-08_pre_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-08_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-1\\eeg\\sub-08_pre_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-08_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-1\\eeg\\sub-08_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-2\\eeg\\sub-08_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-2\\eeg\\sub-08_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-2\\eeg\\sub-08_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.09,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-2\\eeg\\sub-08_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-3\\eeg\\sub-08_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-08",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-08_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-08\\ses-3\\eeg\\sub-08_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-09_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-1\\eeg\\sub-09_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-09_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-1\\eeg\\sub-09_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-09_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-1\\eeg\\sub-09_pre_run-3_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-09_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-1\\eeg\\sub-09_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-2\\eeg\\sub-09_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-2\\eeg\\sub-09_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-2\\eeg\\sub-09_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-2\\eeg\\sub-09_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-3\\eeg\\sub-09_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-3\\eeg\\sub-09_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-3\\eeg\\sub-09_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-09_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-3\\eeg\\sub-09_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-09_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-4\\eeg\\sub-09_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-09_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-4\\eeg\\sub-09_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-09_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-4\\eeg\\sub-09_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-09_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-4\\eeg\\sub-09_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-09_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-5\\eeg\\sub-09_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-09_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-5\\eeg\\sub-09_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-09_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-5\\eeg\\sub-09_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-09",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-09_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-09\\ses-5\\eeg\\sub-09_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-10_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-1\\eeg\\sub-10_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-10_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-1\\eeg\\sub-10_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-10_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-1\\eeg\\sub-10_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-10_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-1\\eeg\\sub-10_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-2\\eeg\\sub-10_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-2\\eeg\\sub-10_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.13,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-2\\eeg\\sub-10_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-2\\eeg\\sub-10_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-3\\eeg\\sub-10_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-3\\eeg\\sub-10_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-3\\eeg\\sub-10_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-10_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-3\\eeg\\sub-10_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-10_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-4\\eeg\\sub-10_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-10_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-4\\eeg\\sub-10_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-10_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-4\\eeg\\sub-10_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-10_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-4\\eeg\\sub-10_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-10_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-5\\eeg\\sub-10_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-10_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-5\\eeg\\sub-10_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-10_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-5\\eeg\\sub-10_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-10",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-10_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-10\\ses-5\\eeg\\sub-10_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-11_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-1\\eeg\\sub-11_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-11_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-1\\eeg\\sub-11_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-11_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-1\\eeg\\sub-11_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-11_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-1\\eeg\\sub-11_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-2\\eeg\\sub-11_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-2\\eeg\\sub-11_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-2\\eeg\\sub-11_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-2\\eeg\\sub-11_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-3\\eeg\\sub-11_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-3\\eeg\\sub-11_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-3\\eeg\\sub-11_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-11",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-11_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-11\\ses-3\\eeg\\sub-11_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-12_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-1\\eeg\\sub-12_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-12_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-1\\eeg\\sub-12_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-12_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-1\\eeg\\sub-12_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-12_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-1\\eeg\\sub-12_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-2\\eeg\\sub-12_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-2\\eeg\\sub-12_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-2\\eeg\\sub-12_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-2\\eeg\\sub-12_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-3\\eeg\\sub-12_MI-IES_run-1_eeg.set",
+      "file_size_mb": 4.74,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-3\\eeg\\sub-12_MI-IES_run-2_eeg.set",
+      "file_size_mb": 3.33,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-3\\eeg\\sub-12_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-3\\eeg\\sub-12_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-12_MI-IES_run-5_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-3\\eeg\\sub-12_MI-IES_run-5_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-12_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-4\\eeg\\sub-12_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-12_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-4\\eeg\\sub-12_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-12_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-4\\eeg\\sub-12_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-12_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-4\\eeg\\sub-12_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-12_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-5\\eeg\\sub-12_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-12_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-5\\eeg\\sub-12_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-12_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-5\\eeg\\sub-12_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-12",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-12_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-12\\ses-5\\eeg\\sub-12_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-13_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-1\\eeg\\sub-13_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-13_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-1\\eeg\\sub-13_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-13_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-1\\eeg\\sub-13_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-13_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-1\\eeg\\sub-13_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-2\\eeg\\sub-13_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-2\\eeg\\sub-13_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-2\\eeg\\sub-13_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-2\\eeg\\sub-13_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-3\\eeg\\sub-13_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-3\\eeg\\sub-13_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-3\\eeg\\sub-13_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-13_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-3\\eeg\\sub-13_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-13_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-4\\eeg\\sub-13_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-13_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-4\\eeg\\sub-13_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-13_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-4\\eeg\\sub-13_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-13_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-4\\eeg\\sub-13_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-13_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-5\\eeg\\sub-13_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-13_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-5\\eeg\\sub-13_follow_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-13_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-5\\eeg\\sub-13_follow_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-13",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-13_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-13\\ses-5\\eeg\\sub-13_follow_run-4_eeg.set",
+      "file_size_mb": 5.34,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-14_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-1\\eeg\\sub-14_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-14_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-1\\eeg\\sub-14_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-14_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-1\\eeg\\sub-14_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-14_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-1\\eeg\\sub-14_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-2\\eeg\\sub-14_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-2\\eeg\\sub-14_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-2\\eeg\\sub-14_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-2\\eeg\\sub-14_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-3\\eeg\\sub-14_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-3\\eeg\\sub-14_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-3\\eeg\\sub-14_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-14_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-3\\eeg\\sub-14_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-14_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-4\\eeg\\sub-14_post_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-14_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-4\\eeg\\sub-14_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-14_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-4\\eeg\\sub-14_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-14_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-4\\eeg\\sub-14_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-14_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-5\\eeg\\sub-14_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-14_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-5\\eeg\\sub-14_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-14_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-5\\eeg\\sub-14_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-14",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-14_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-14\\ses-5\\eeg\\sub-14_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-15_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-1\\eeg\\sub-15_pre_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-15_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-1\\eeg\\sub-15_pre_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-15_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-1\\eeg\\sub-15_pre_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-15_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-1\\eeg\\sub-15_pre_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-2\\eeg\\sub-15_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-2\\eeg\\sub-15_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-2\\eeg\\sub-15_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-2\\eeg\\sub-15_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-3\\eeg\\sub-15_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-3\\eeg\\sub-15_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-3\\eeg\\sub-15_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-15_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-3\\eeg\\sub-15_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-15_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-4\\eeg\\sub-15_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-15_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-4\\eeg\\sub-15_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-15_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-4\\eeg\\sub-15_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-15_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-4\\eeg\\sub-15_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-15_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-5\\eeg\\sub-15_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-15_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-5\\eeg\\sub-15_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-15_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-5\\eeg\\sub-15_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-15",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-15_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-15\\ses-5\\eeg\\sub-15_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-16_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-1\\eeg\\sub-16_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-16_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-1\\eeg\\sub-16_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-16_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-1\\eeg\\sub-16_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-16_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-1\\eeg\\sub-16_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-16_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-2\\eeg\\sub-16_post_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-16_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-2\\eeg\\sub-16_post_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-16_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-2\\eeg\\sub-16_post_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-16_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-2\\eeg\\sub-16_post_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-16_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-3\\eeg\\sub-16_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-16_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-3\\eeg\\sub-16_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-16_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-3\\eeg\\sub-16_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-16",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-16_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-16\\ses-3\\eeg\\sub-16_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-17_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-1\\eeg\\sub-17_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-17_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-1\\eeg\\sub-17_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-17_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-1\\eeg\\sub-17_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-17_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-1\\eeg\\sub-17_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-17_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-2\\eeg\\sub-17_post_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-17_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-2\\eeg\\sub-17_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-17_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-2\\eeg\\sub-17_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-17_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-2\\eeg\\sub-17_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-17_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-3\\eeg\\sub-17_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-17_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-3\\eeg\\sub-17_follow_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-17_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-3\\eeg\\sub-17_follow_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-17",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-17_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-17\\ses-3\\eeg\\sub-17_follow_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-18_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-1\\eeg\\sub-18_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-18_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-1\\eeg\\sub-18_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-18_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-1\\eeg\\sub-18_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-18_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-1\\eeg\\sub-18_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-18_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-2\\eeg\\sub-18_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-18_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-2\\eeg\\sub-18_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-18_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-2\\eeg\\sub-18_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-18_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-2\\eeg\\sub-18_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-18_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-3\\eeg\\sub-18_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-18_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-3\\eeg\\sub-18_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-18_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-3\\eeg\\sub-18_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-18",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-18_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-18\\ses-3\\eeg\\sub-18_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-19_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-1\\eeg\\sub-19_pre_run-1_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-19_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-1\\eeg\\sub-19_pre_run-2_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-19_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-1\\eeg\\sub-19_pre_run-3_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-19_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-1\\eeg\\sub-19_pre_run-4_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-19_pre_run-5_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-1\\eeg\\sub-19_pre_run-5_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-19_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-2\\eeg\\sub-19_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-19_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-2\\eeg\\sub-19_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-19_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-2\\eeg\\sub-19_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-19_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-2\\eeg\\sub-19_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-19_post_run-5_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-2\\eeg\\sub-19_post_run-5_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-19_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-3\\eeg\\sub-19_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-19_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-3\\eeg\\sub-19_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-19_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-3\\eeg\\sub-19_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-19_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-3\\eeg\\sub-19_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-19",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-19_follow_run-5_eeg.set",
+      "file_path": "PEEG\\sub-19\\ses-3\\eeg\\sub-19_follow_run-5_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-20_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-1\\eeg\\sub-20_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-20_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-1\\eeg\\sub-20_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-20_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-1\\eeg\\sub-20_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-20_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-1\\eeg\\sub-20_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-20_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-2\\eeg\\sub-20_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-20_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-2\\eeg\\sub-20_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-20_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-2\\eeg\\sub-20_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-20_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-2\\eeg\\sub-20_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-20_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-3\\eeg\\sub-20_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-20_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-3\\eeg\\sub-20_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-20_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-3\\eeg\\sub-20_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-20",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-20_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-20\\ses-3\\eeg\\sub-20_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-21_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-1\\eeg\\sub-21_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-21_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-1\\eeg\\sub-21_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-21_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-1\\eeg\\sub-21_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-21_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-1\\eeg\\sub-21_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-21_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-2\\eeg\\sub-21_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-21_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-2\\eeg\\sub-21_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-21_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-2\\eeg\\sub-21_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-21_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-2\\eeg\\sub-21_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-21_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-3\\eeg\\sub-21_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-21_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-3\\eeg\\sub-21_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-21_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-3\\eeg\\sub-21_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-21",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-21_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-21\\ses-3\\eeg\\sub-21_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-22_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-1\\eeg\\sub-22_pre_run-1_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-22_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-1\\eeg\\sub-22_pre_run-2_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-22_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-1\\eeg\\sub-22_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-22_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-1\\eeg\\sub-22_pre_run-4_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-22_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-2\\eeg\\sub-22_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-22_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-2\\eeg\\sub-22_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-22_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-2\\eeg\\sub-22_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-22_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-2\\eeg\\sub-22_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-22_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-3\\eeg\\sub-22_follow_run-1_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-22_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-3\\eeg\\sub-22_follow_run-2_eeg.set",
+      "file_size_mb": 8.14,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-22_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-3\\eeg\\sub-22_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-22",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-22_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-22\\ses-3\\eeg\\sub-22_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-23_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-1\\eeg\\sub-23_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-23_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-1\\eeg\\sub-23_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-23_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-1\\eeg\\sub-23_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-23_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-1\\eeg\\sub-23_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-23_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-2\\eeg\\sub-23_post_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-23_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-2\\eeg\\sub-23_post_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-23_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-2\\eeg\\sub-23_post_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-23_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-2\\eeg\\sub-23_post_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-23_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-3\\eeg\\sub-23_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-23_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-3\\eeg\\sub-23_follow_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-23_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-3\\eeg\\sub-23_follow_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-23",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-23_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-23\\ses-3\\eeg\\sub-23_follow_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-24_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-1\\eeg\\sub-24_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-24_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-1\\eeg\\sub-24_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-24_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-1\\eeg\\sub-24_pre_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-24_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-1\\eeg\\sub-24_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-24_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-2\\eeg\\sub-24_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-24_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-2\\eeg\\sub-24_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-24_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-2\\eeg\\sub-24_post_run-3_eeg.set",
+      "file_size_mb": 8.1,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-24_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-2\\eeg\\sub-24_post_run-4_eeg.set",
+      "file_size_mb": 8.17,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-24_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-3\\eeg\\sub-24_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-24_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-3\\eeg\\sub-24_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-24_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-3\\eeg\\sub-24_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-24",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-24_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-24\\ses-3\\eeg\\sub-24_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-25_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-1\\eeg\\sub-25_pre_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-25_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-1\\eeg\\sub-25_pre_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-25_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-1\\eeg\\sub-25_pre_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-25_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-1\\eeg\\sub-25_pre_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-SES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-2\\eeg\\sub-25_MI-SES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-SES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-2\\eeg\\sub-25_MI-SES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-SES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-2\\eeg\\sub-25_MI-SES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-2",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-SES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-2\\eeg\\sub-25_MI-SES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-IES_run-1_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-3\\eeg\\sub-25_MI-IES_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-IES_run-2_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-3\\eeg\\sub-25_MI-IES_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-IES_run-3_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-3\\eeg\\sub-25_MI-IES_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-25_MI-IES_run-4_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-3\\eeg\\sub-25_MI-IES_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-25_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-4\\eeg\\sub-25_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-25_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-4\\eeg\\sub-25_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-25_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-4\\eeg\\sub-25_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-4",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-25_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-4\\eeg\\sub-25_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-25_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-5\\eeg\\sub-25_follow_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-25_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-5\\eeg\\sub-25_follow_run-2_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-25_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-5\\eeg\\sub-25_follow_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-25",
+      "session_id": "ses-5",
+      "task_type": "Task-run",
+      "filename": "sub-25_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-25\\ses-5\\eeg\\sub-25_follow_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-26_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-1\\eeg\\sub-26_pre_run-1_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-26_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-1\\eeg\\sub-26_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-26_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-1\\eeg\\sub-26_pre_run-3_eeg.set",
+      "file_size_mb": 7.96,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-26_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-1\\eeg\\sub-26_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-26_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-2\\eeg\\sub-26_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-26_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-2\\eeg\\sub-26_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-26_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-2\\eeg\\sub-26_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-26_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-2\\eeg\\sub-26_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-26",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-26_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-26\\ses-3\\eeg\\sub-26_follow_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-27_pre_run-1_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-1\\eeg\\sub-27_pre_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-27_pre_run-2_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-1\\eeg\\sub-27_pre_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-27_pre_run-3_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-1\\eeg\\sub-27_pre_run-3_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-1",
+      "task_type": "Pre-rehabilitation",
+      "filename": "sub-27_pre_run-4_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-1\\eeg\\sub-27_pre_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-27_post_run-1_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-2\\eeg\\sub-27_post_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-27_post_run-2_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-2\\eeg\\sub-27_post_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-27_post_run-3_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-2\\eeg\\sub-27_post_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-2",
+      "task_type": "Post-rehabilitation",
+      "filename": "sub-27_post_run-4_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-2\\eeg\\sub-27_post_run-4_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-27_follow_run-1_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-3\\eeg\\sub-27_follow_run-1_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-27_follow_run-2_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-3\\eeg\\sub-27_follow_run-2_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-27_follow_run-3_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-3\\eeg\\sub-27_follow_run-3_eeg.set",
+      "file_size_mb": 8.15,
+      "has_fdt_file": false
+    },
+    {
+      "subject_id": "sub-27",
+      "session_id": "ses-3",
+      "task_type": "Task-run",
+      "filename": "sub-27_follow_run-4_eeg.set",
+      "file_path": "PEEG\\sub-27\\ses-3\\eeg\\sub-27_follow_run-4_eeg.set",
+      "file_size_mb": 8.16,
+      "has_fdt_file": false
+    }
+  ],
+  "subject_stats": [
+    {
+      "subject": "sub-01",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-02",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 22,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-03",
+      "sessions": 3,
+      "task_types": 2,
+      "file_count": 10,
+      "has_pre_post": false
+    },
+    {
+      "subject": "sub-04",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-05",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-06",
+      "sessions": 3,
+      "task_types": 2,
+      "file_count": 12,
+      "has_pre_post": false
+    },
+    {
+      "subject": "sub-07",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-08",
+      "sessions": 3,
+      "task_types": 2,
+      "file_count": 10,
+      "has_pre_post": false
+    },
+    {
+      "subject": "sub-09",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-10",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-11",
+      "sessions": 3,
+      "task_types": 2,
+      "file_count": 12,
+      "has_pre_post": false
+    },
+    {
+      "subject": "sub-12",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 21,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-13",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-14",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-15",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-16",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-17",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-18",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-19",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 15,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-20",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-21",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-22",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-23",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-24",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-25",
+      "sessions": 5,
+      "task_types": 3,
+      "file_count": 20,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-26",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 9,
+      "has_pre_post": true
+    },
+    {
+      "subject": "sub-27",
+      "sessions": 3,
+      "task_types": 3,
+      "file_count": 12,
+      "has_pre_post": true
+    }
+  ]
+}
