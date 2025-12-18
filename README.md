@@ -9,28 +9,7 @@
 - Channels: 30 EEG + 2 EOG + 1 marker (based on paper)
 - Trials per subject: 40 (20 left hand, 20 right hand MI)
 
-## Folder Structure
-organized_data/
-├── raw_data/                    # Original raw .mat files
-│   ├── sub-01_task-motor-imagery_eeg.mat
-│   ├── sub-02_task-motor-imagery_eeg.mat
-│   └── ... (50 files total)
-├── paper_preprocessed/          # Paper's preprocessed .edf files
-│   ├── sub-01_task-motor-imagery_eeg.edf
-│   ├── sub-02_task-motor-imagery_eeg.edf
-│   └── ... (50 files total)
-├── patient_info/               # Patient metadata and demographics
-│   ├── participants.tsv
-│   ├── participants.json
-│   └── ...
-├── events/                     # Event markers and triggers
-│   ├── task-motor-imagery_events.tsv
-│   └── ...
-├── my_preprocessed/           # Your preprocessing results (empty)
-├── results/                   # Analysis results
-├── plots/                     # Visualizations
-├── code/                      # Analysis scripts
-└── temp/                      # Temporary files
+
 
 ## File Naming Convention
 - Raw files: [subject_id]_task-motor-imagery_eeg.mat
@@ -52,3 +31,4 @@ organized_data/
 
 ## Created on
 2025-12-16 11:14:48
+
