@@ -1,9 +1,0 @@
-EEG Stroke Rehabilitation Dataset Inventory
-==================================================
-Total Subjects: 27
-Total Files: 419
-Subjects with Pre/Post data: 23
-Data Collection Period: Sessions 1-5
-Average files per subject: 15.5
-Average sessions per subject: 3.9
-Generated on: 2025-11-11 08:00:40
